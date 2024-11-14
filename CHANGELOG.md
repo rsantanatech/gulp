@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [5.2.0](https://github.com/gulpjs/gulp/compare/v5.1.1...v5.2.0) (2024-11-14)
+
+
+### Features
+
+* **core:** add preprocess functionality ([9503d68](https://github.com/gulpjs/gulp/commit/9503d6821aefa7f21be72cf38c4c403f1fd87d72))
+
+
+### Bug Fixes
+
+* **core:** resolve error in preprocess functionality ([2601a7b](https://github.com/gulpjs/gulp/commit/2601a7bae942f592346d98c1115d7a29f575287e))
+
 ## [5.1.1](https://github.com/gulpjs/gulp/compare/v5.1.0...v5.1.1) (2024-11-14)
 
 
