@@ -32,7 +32,8 @@
   "scripts": {
     "lint": "eslint .",
     "pretest": "npm run lint",
-    "test": "nyc mocha --async-only"
+    "test": "nyc mocha --async-only",
+    "release": "commit-and-tag-version"
   },
   "dependencies": {
     "glob-watcher": "^6.0.0",
@@ -41,6 +42,7 @@
     "vinyl-fs": "^4.0.0"
   },
   "devDependencies": {
+    "commit-and-tag-version": "^12.5.0",
     "eslint": "^7.0.0",
     "eslint-config-gulp": "^5.0.0",
     "eslint-plugin-node": "^11.1.0",
