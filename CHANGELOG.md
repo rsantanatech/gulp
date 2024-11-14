@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [6.0.0](https://github.com/gulpjs/gulp/compare/v5.2.0...v6.0.0) (2024-11-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core:** preprocessing function no longer accepts asynchronous function
+
+### Features
+
+* **core:** add 'once' option to watch for single execution ([fd759ae](https://github.com/gulpjs/gulp/commit/fd759ae9d0dfc41cd24339b28f0bb7ccb1674497))
+* **core:** improve preprocess functionality ([570466c](https://github.com/gulpjs/gulp/commit/570466cbf1dea351ad07a83d94773dda7c46803f))
+
 ## [5.2.0](https://github.com/gulpjs/gulp/compare/v5.1.1...v5.2.0) (2024-11-14)
 
 
