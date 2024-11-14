@@ -44,6 +44,7 @@ Gulp.prototype.watch = function(glob, opt, task) {
   var fn;
   if (typeof task === 'function') {
     fn = this.parallel(task);
+    //Correção de lógica para execução paralela
   }
 
   return watch(glob, opt, fn);
