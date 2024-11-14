@@ -20,6 +20,7 @@ function Gulp() {
   this.dest = this.dest.bind(this);
   this.symlink = this.symlink.bind(this);
 }
+//Funcionalidade para logar erros detalhados
 util.inherits(Gulp, Undertaker);
 
 Gulp.prototype.src = vfs.src;
