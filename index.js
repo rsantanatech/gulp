@@ -23,6 +23,7 @@ function Gulp() {
 //Funcionalidade para logar erros detalhados
 //Correção na funcionalidade para logar erros detalhados
 //Funcionalidade para permitir que o usuário defina uma função de pré-processamento
+//Correção na funcionalidade para permitir que o usuário defina uma função de pré-processamento
 util.inherits(Gulp, Undertaker);
 
 Gulp.prototype.src = vfs.src;
