@@ -1,4 +1,13 @@
-# gulp changelog
+# Changelog
+
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+
+## [5.1.0](https://github.com/gulpjs/gulp/compare/v5.0.0...v5.1.0) (2024-11-14)
+
+
+### Features
+
+* **core:** add detailed error logging option ([ed07d13](https://github.com/gulpjs/gulp/commit/ed07d13f916abd9330f14bda46cb0c645215da39))
 
 ## [5.0.0](https://www.github.com/gulpjs/gulp/compare/v4.0.2...v5.0.0) (2024-03-29)
 
