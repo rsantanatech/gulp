@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [5.1.1](https://github.com/gulpjs/gulp/compare/v5.1.0...v5.1.1) (2024-11-14)
+
+
+### Bug Fixes
+
+* **core:** resolve error in logging option ([69daa65](https://github.com/gulpjs/gulp/commit/69daa65d3dbb4ef688148c5abb4c93758fd223b2))
+* **core:** resolve error in parallel execution ([9bba091](https://github.com/gulpjs/gulp/commit/9bba0914264f07eb008d277e4129a1252089bd3d))
+
 ## [5.1.0](https://github.com/gulpjs/gulp/compare/v5.0.0...v5.1.0) (2024-11-14)
 
 
